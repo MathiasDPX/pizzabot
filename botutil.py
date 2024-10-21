@@ -8,8 +8,6 @@ import os
 import math
 import time
 import sys
-import win32api
-import win32con
 from PIL import Image, ImageGrab
 
 import pyautogui as pag
